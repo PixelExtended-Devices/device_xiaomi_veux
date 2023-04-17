@@ -12,10 +12,10 @@
       "remote":"pixelextended-devices"
    },
    {
-      "repository":"android_kernel_qcom_sm8350",
+      "repository":"LineageOS/android_kernel_qcom_sm8350",
       "target_path":"kernel/xiaomi/sm6375",
       "branch":"lineage-20",
-      "remote":"lineage"
+      "remote":"github"
    },
    {
       "repository":"hardware_xiaomi",
