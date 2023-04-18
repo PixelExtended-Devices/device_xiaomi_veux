@@ -859,7 +859,7 @@
     <bool name="config_smartChargingAvailable">true</bool>
 
     <!-- Maximum color temperature, in Kelvin, supported by Night display.
-         Setting this to track config_displayWhiteBalanceColorTemperatureDefault (currently 6500K). -->
-    <integer name="config_nightDisplayColorTemperatureMax">6500</integer>
+         Setting this to track config_displayWhiteBalanceColorTemperatureDefault. -->
+    <integer name="config_nightDisplayColorTemperatureMax">3850</integer>
 
 </resources>
